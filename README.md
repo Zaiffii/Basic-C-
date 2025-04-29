@@ -1,2 +1,2 @@
-# Basic-C-
+# Basic-C++
 1st Semester C++
